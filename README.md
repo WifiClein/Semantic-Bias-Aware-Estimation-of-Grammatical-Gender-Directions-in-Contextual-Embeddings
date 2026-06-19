@@ -11,8 +11,9 @@ scripts/
 results/tables/
 requirements.txt
 README.md
-Data
 
+
+Data
 The expected embedding data structure is:
 data/embeddings/french/french_camembert/
 data/embeddings/french/multilingual_mbert/
@@ -20,8 +21,9 @@ data/embeddings/french/multilingual_xlmr/
 data/embeddings/spanish/spanish_beto/
 data/embeddings/spanish/multilingual_mbert/
 data/embeddings/spanish/multilingual_xlmr/
-Reproduction pipeline
 
+
+Reproduction pipeline
 After downloading and extracting the embedding data, run:
 python scripts/01_run_full_cv_12_methods.py
 python scripts/02_summarize_results.py
