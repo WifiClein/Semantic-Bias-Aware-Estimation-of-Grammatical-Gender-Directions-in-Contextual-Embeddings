@@ -1,0 +1,7 @@
+language,base_model,method,gap_mean,gap_std,n_folds,rank
+french,CamemBERT,Controlled-centroid,3.0524050816893575e-05,1.7763399073818793e-05,5,1.0
+french,XLM-R,Natural-centroid,1.2179603800177575e-06,8.828026984363815e-07,5,1.0
+french,mBERT,Controlled-centroid,1.5054998220875859e-05,6.986645343597614e-06,5,1.0
+spanish,BETO,Controlled-centroid,7.683341391384601e-06,1.358069901238883e-06,5,1.0
+spanish,XLM-R,Natural-centroid,1.7787329852581025e-06,8.894588443044027e-07,5,1.0
+spanish,mBERT,Natural-centroid,8.766865357756615e-06,5.414423708293583e-06,5,1.0

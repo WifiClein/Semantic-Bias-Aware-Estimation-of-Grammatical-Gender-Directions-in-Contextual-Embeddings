@@ -1,0 +1,137 @@
+{
+  "root": "/root/autodl-tmp/fin",
+  "models": {
+    "french/french_camembert": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/french/french_camembert/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/french/french_camembert/controlled_nouns.npy",
+      "natural_shape": [
+        59952,
+        768
+      ],
+      "controlled_shape": [
+        59980,
+        768
+      ],
+      "natural_hash": "e0de02c6bd6bb608a6f70adc014b2d2a",
+      "controlled_hash": "eb4618fbfa332151124e29739e1a070a",
+      "natural_gender_dist": {
+        "feminine": 29977,
+        "masculine": 29975
+      },
+      "controlled_gender_dist": {
+        "feminine": 29990,
+        "masculine": 29990
+      }
+    },
+    "french/multilingual_mbert": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/french/multilingual_mbert/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/french/multilingual_mbert/controlled_nouns.npy",
+      "natural_shape": [
+        59924,
+        768
+      ],
+      "controlled_shape": [
+        59980,
+        768
+      ],
+      "natural_hash": "71e057b87651fd3b7518c5a4351ed987",
+      "controlled_hash": "3f14d199c18b2676bc38f089f4626f1b",
+      "natural_gender_dist": {
+        "feminine": 29963,
+        "masculine": 29961
+      },
+      "controlled_gender_dist": {
+        "feminine": 29990,
+        "masculine": 29990
+      }
+    },
+    "french/multilingual_xlmr": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/french/multilingual_xlmr/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/french/multilingual_xlmr/controlled_nouns.npy",
+      "natural_shape": [
+        59912,
+        768
+      ],
+      "controlled_shape": [
+        59980,
+        768
+      ],
+      "natural_hash": "d94dfe84bf4df30c4a15a06571b42a7c",
+      "controlled_hash": "7d288837f87eb8ece21ced3bf7c93d6c",
+      "natural_gender_dist": {
+        "masculine": 29958,
+        "feminine": 29954
+      },
+      "controlled_gender_dist": {
+        "feminine": 29990,
+        "masculine": 29990
+      }
+    },
+    "spanish/multilingual_mbert": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/spanish/multilingual_mbert/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/spanish/multilingual_mbert/controlled_nouns.npy",
+      "natural_shape": [
+        58104,
+        768
+      ],
+      "controlled_shape": [
+        59880,
+        768
+      ],
+      "natural_hash": "fe080041671960cfb55416e07b8397fe",
+      "controlled_hash": "0605738f41d3f1da8a7fc3fecfd73d0e",
+      "natural_gender_dist": {
+        "masculine": 29892,
+        "feminine": 28212
+      },
+      "controlled_gender_dist": {
+        "masculine": 29940,
+        "feminine": 29940
+      }
+    },
+    "spanish/spanish_beto": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/spanish/spanish_beto/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/spanish/spanish_beto/controlled_nouns.npy",
+      "natural_shape": [
+        58102,
+        768
+      ],
+      "controlled_shape": [
+        59880,
+        768
+      ],
+      "natural_hash": "b7443eed8e977b039a4b20a93f744bb2",
+      "controlled_hash": "1a2a665459687a62e16ebbed2f95e545",
+      "natural_gender_dist": {
+        "masculine": 29890,
+        "feminine": 28212
+      },
+      "controlled_gender_dist": {
+        "masculine": 29940,
+        "feminine": 29940
+      }
+    },
+    "spanish/multilingual_xlmr": {
+      "natural_file": "/root/autodl-tmp/fin/data/embeddings/spanish/multilingual_xlmr/natural_nouns.npy",
+      "controlled_file": "/root/autodl-tmp/fin/data/embeddings/spanish/multilingual_xlmr/controlled_nouns.npy",
+      "natural_shape": [
+        58104,
+        768
+      ],
+      "controlled_shape": [
+        59880,
+        768
+      ],
+      "natural_hash": "e13d1e2e7c9fa20a3769aa683caabaaf",
+      "controlled_hash": "5e6dc33e8bfe3b524f0f0d3b79989917",
+      "natural_gender_dist": {
+        "masculine": 29892,
+        "feminine": 28212
+      },
+      "controlled_gender_dist": {
+        "masculine": 29940,
+        "feminine": 29940
+      }
+    }
+  }
+}

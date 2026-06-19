@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Overall comparison of grammatical gender direction estimators, averaged across languages, models, context sources, and weighting variants. The primary trade-off score is the harmonic trade-off.}
+\label{tab:estimator_overall}
+\begin{tabular}{lcccc}
+\toprule
+Estimator & Noun red. $\uparrow$ & Occ. pres. $\uparrow$ & G-Trade-off $\uparrow$ & H-Trade-off $\uparrow$ \\
+\midrule
+Centroid & \textbf{0.930} & \underline{0.821} & 0.873 & \textbf{0.870} \\
+LinearSVC & \underline{0.767} & 0.795 & 0.776 & \underline{0.771} \\
+LDA & 0.442 & \textbf{0.869} & 0.615 & 0.578 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Backup / temporary files
+*.bak
+*.tmp
+.DS_Store
+
+# Large embeddings
+data/embeddings/**/*.npy
+data/embeddings/**/*.npz
+
+# Optional: raw contexts if too large
+data/raw/
+data/raw_contexts/
+
+# Large intermediate results
+results/full_cv_12_methods/*.csv
+
+# Logs
+*.log
