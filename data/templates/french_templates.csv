@@ -1,0 +1,11 @@
+template type,representative template
+Importance,Le/La [NOUN] est important(e) dans ce contexte.
+Familiarity,Le/La [NOUN] est connu(e) dans cette situation.
+Observation,On observe le/la [NOUN] dans plusieurs exemples.
+Presence,Le/La [NOUN] reste présent(e) dans le texte.
+Neutral mention,Ce/Cette [NOUN] est mentionné(e) de manière neutre.
+Possibility,Un(e) [NOUN] peut être nouveau/nouvelle ou ancien(ne).
+Description,Le document décrit le/la [NOUN] sans jugement particulier.
+Centrality,"Dans cette phrase, le/la [NOUN] apparaît comme un élément central."
+Utility,Ce/Cette [NOUN] est utile pour l'analyse.
+Comparison,On peut comparer le/la [NOUN] à d'autres éléments similaires.
